@@ -1,0 +1,13 @@
+E:\C#\Second\Second\obj\Debug\netcoreapp3.1\Second.csprojAssemblyReference.cache
+E:\C#\Second\Second\obj\Debug\netcoreapp3.1\Second.AssemblyInfoInputs.cache
+E:\C#\Second\Second\obj\Debug\netcoreapp3.1\Second.AssemblyInfo.cs
+E:\C#\Second\Second\obj\Debug\netcoreapp3.1\Second.csproj.CoreCompileInputs.cache
+E:\C#\Second\Second\bin\Debug\netcoreapp3.1\Second.exe
+E:\C#\Second\Second\bin\Debug\netcoreapp3.1\Second.deps.json
+E:\C#\Second\Second\bin\Debug\netcoreapp3.1\Second.runtimeconfig.json
+E:\C#\Second\Second\bin\Debug\netcoreapp3.1\Second.runtimeconfig.dev.json
+E:\C#\Second\Second\bin\Debug\netcoreapp3.1\Second.dll
+E:\C#\Second\Second\bin\Debug\netcoreapp3.1\Second.pdb
+E:\C#\Second\Second\obj\Debug\netcoreapp3.1\Second.dll
+E:\C#\Second\Second\obj\Debug\netcoreapp3.1\Second.pdb
+E:\C#\Second\Second\obj\Debug\netcoreapp3.1\Second.genruntimeconfig.cache
