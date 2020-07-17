@@ -1,0 +1,13 @@
+C:\Users\roytm\source\repos\funcOverloads\funcOverloads\bin\Debug\netcoreapp3.1\funcOverloads.exe
+C:\Users\roytm\source\repos\funcOverloads\funcOverloads\bin\Debug\netcoreapp3.1\funcOverloads.deps.json
+C:\Users\roytm\source\repos\funcOverloads\funcOverloads\bin\Debug\netcoreapp3.1\funcOverloads.runtimeconfig.json
+C:\Users\roytm\source\repos\funcOverloads\funcOverloads\bin\Debug\netcoreapp3.1\funcOverloads.runtimeconfig.dev.json
+C:\Users\roytm\source\repos\funcOverloads\funcOverloads\bin\Debug\netcoreapp3.1\funcOverloads.dll
+C:\Users\roytm\source\repos\funcOverloads\funcOverloads\bin\Debug\netcoreapp3.1\funcOverloads.pdb
+C:\Users\roytm\source\repos\funcOverloads\funcOverloads\obj\Debug\netcoreapp3.1\funcOverloads.csprojAssemblyReference.cache
+C:\Users\roytm\source\repos\funcOverloads\funcOverloads\obj\Debug\netcoreapp3.1\funcOverloads.AssemblyInfoInputs.cache
+C:\Users\roytm\source\repos\funcOverloads\funcOverloads\obj\Debug\netcoreapp3.1\funcOverloads.AssemblyInfo.cs
+C:\Users\roytm\source\repos\funcOverloads\funcOverloads\obj\Debug\netcoreapp3.1\funcOverloads.csproj.CoreCompileInputs.cache
+C:\Users\roytm\source\repos\funcOverloads\funcOverloads\obj\Debug\netcoreapp3.1\funcOverloads.dll
+C:\Users\roytm\source\repos\funcOverloads\funcOverloads\obj\Debug\netcoreapp3.1\funcOverloads.pdb
+C:\Users\roytm\source\repos\funcOverloads\funcOverloads\obj\Debug\netcoreapp3.1\funcOverloads.genruntimeconfig.cache
