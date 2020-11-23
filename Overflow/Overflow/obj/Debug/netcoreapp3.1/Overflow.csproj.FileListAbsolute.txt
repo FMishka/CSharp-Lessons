@@ -1,0 +1,13 @@
+E:\.creaters\C#\Overflow\Overflow\bin\Debug\netcoreapp3.1\Overflow.exe
+E:\.creaters\C#\Overflow\Overflow\bin\Debug\netcoreapp3.1\Overflow.deps.json
+E:\.creaters\C#\Overflow\Overflow\bin\Debug\netcoreapp3.1\Overflow.runtimeconfig.json
+E:\.creaters\C#\Overflow\Overflow\bin\Debug\netcoreapp3.1\Overflow.runtimeconfig.dev.json
+E:\.creaters\C#\Overflow\Overflow\bin\Debug\netcoreapp3.1\Overflow.dll
+E:\.creaters\C#\Overflow\Overflow\bin\Debug\netcoreapp3.1\Overflow.pdb
+E:\.creaters\C#\Overflow\Overflow\obj\Debug\netcoreapp3.1\Overflow.csprojAssemblyReference.cache
+E:\.creaters\C#\Overflow\Overflow\obj\Debug\netcoreapp3.1\Overflow.AssemblyInfoInputs.cache
+E:\.creaters\C#\Overflow\Overflow\obj\Debug\netcoreapp3.1\Overflow.AssemblyInfo.cs
+E:\.creaters\C#\Overflow\Overflow\obj\Debug\netcoreapp3.1\Overflow.csproj.CoreCompileInputs.cache
+E:\.creaters\C#\Overflow\Overflow\obj\Debug\netcoreapp3.1\Overflow.dll
+E:\.creaters\C#\Overflow\Overflow\obj\Debug\netcoreapp3.1\Overflow.pdb
+E:\.creaters\C#\Overflow\Overflow\obj\Debug\netcoreapp3.1\Overflow.genruntimeconfig.cache
