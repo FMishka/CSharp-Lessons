@@ -1,0 +1,13 @@
+E:\.creaters\C#\Transorm\Transorm\bin\Debug\netcoreapp3.1\Transorm.exe
+E:\.creaters\C#\Transorm\Transorm\bin\Debug\netcoreapp3.1\Transorm.deps.json
+E:\.creaters\C#\Transorm\Transorm\bin\Debug\netcoreapp3.1\Transorm.runtimeconfig.json
+E:\.creaters\C#\Transorm\Transorm\bin\Debug\netcoreapp3.1\Transorm.runtimeconfig.dev.json
+E:\.creaters\C#\Transorm\Transorm\bin\Debug\netcoreapp3.1\Transorm.dll
+E:\.creaters\C#\Transorm\Transorm\bin\Debug\netcoreapp3.1\Transorm.pdb
+E:\.creaters\C#\Transorm\Transorm\obj\Debug\netcoreapp3.1\Transorm.csprojAssemblyReference.cache
+E:\.creaters\C#\Transorm\Transorm\obj\Debug\netcoreapp3.1\Transorm.AssemblyInfoInputs.cache
+E:\.creaters\C#\Transorm\Transorm\obj\Debug\netcoreapp3.1\Transorm.AssemblyInfo.cs
+E:\.creaters\C#\Transorm\Transorm\obj\Debug\netcoreapp3.1\Transorm.csproj.CoreCompileInputs.cache
+E:\.creaters\C#\Transorm\Transorm\obj\Debug\netcoreapp3.1\Transorm.dll
+E:\.creaters\C#\Transorm\Transorm\obj\Debug\netcoreapp3.1\Transorm.pdb
+E:\.creaters\C#\Transorm\Transorm\obj\Debug\netcoreapp3.1\Transorm.genruntimeconfig.cache
