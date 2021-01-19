@@ -1,0 +1,13 @@
+E:\.creaters\C#\VAR\VAR\bin\Debug\netcoreapp3.1\VAR.exe
+E:\.creaters\C#\VAR\VAR\bin\Debug\netcoreapp3.1\VAR.deps.json
+E:\.creaters\C#\VAR\VAR\bin\Debug\netcoreapp3.1\VAR.runtimeconfig.json
+E:\.creaters\C#\VAR\VAR\bin\Debug\netcoreapp3.1\VAR.runtimeconfig.dev.json
+E:\.creaters\C#\VAR\VAR\bin\Debug\netcoreapp3.1\VAR.dll
+E:\.creaters\C#\VAR\VAR\bin\Debug\netcoreapp3.1\VAR.pdb
+E:\.creaters\C#\VAR\VAR\obj\Debug\netcoreapp3.1\VAR.csprojAssemblyReference.cache
+E:\.creaters\C#\VAR\VAR\obj\Debug\netcoreapp3.1\VAR.AssemblyInfoInputs.cache
+E:\.creaters\C#\VAR\VAR\obj\Debug\netcoreapp3.1\VAR.AssemblyInfo.cs
+E:\.creaters\C#\VAR\VAR\obj\Debug\netcoreapp3.1\VAR.csproj.CoreCompileInputs.cache
+E:\.creaters\C#\VAR\VAR\obj\Debug\netcoreapp3.1\VAR.dll
+E:\.creaters\C#\VAR\VAR\obj\Debug\netcoreapp3.1\VAR.pdb
+E:\.creaters\C#\VAR\VAR\obj\Debug\netcoreapp3.1\VAR.genruntimeconfig.cache
