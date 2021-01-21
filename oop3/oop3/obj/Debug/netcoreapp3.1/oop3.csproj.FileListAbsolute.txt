@@ -1,0 +1,12 @@
+E:\.creaters\C#\oop3\oop3\bin\Debug\netcoreapp3.1\oop3.exe
+E:\.creaters\C#\oop3\oop3\bin\Debug\netcoreapp3.1\oop3.deps.json
+E:\.creaters\C#\oop3\oop3\bin\Debug\netcoreapp3.1\oop3.runtimeconfig.json
+E:\.creaters\C#\oop3\oop3\bin\Debug\netcoreapp3.1\oop3.runtimeconfig.dev.json
+E:\.creaters\C#\oop3\oop3\bin\Debug\netcoreapp3.1\oop3.dll
+E:\.creaters\C#\oop3\oop3\bin\Debug\netcoreapp3.1\oop3.pdb
+E:\.creaters\C#\oop3\oop3\obj\Debug\netcoreapp3.1\oop3.AssemblyInfoInputs.cache
+E:\.creaters\C#\oop3\oop3\obj\Debug\netcoreapp3.1\oop3.AssemblyInfo.cs
+E:\.creaters\C#\oop3\oop3\obj\Debug\netcoreapp3.1\oop3.csproj.CoreCompileInputs.cache
+E:\.creaters\C#\oop3\oop3\obj\Debug\netcoreapp3.1\oop3.dll
+E:\.creaters\C#\oop3\oop3\obj\Debug\netcoreapp3.1\oop3.pdb
+E:\.creaters\C#\oop3\oop3\obj\Debug\netcoreapp3.1\oop3.genruntimeconfig.cache
