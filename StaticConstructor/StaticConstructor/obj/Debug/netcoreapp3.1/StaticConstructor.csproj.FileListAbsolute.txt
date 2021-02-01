@@ -1,0 +1,13 @@
+E:\.creaters\C# Projects\StaticConstructor\StaticConstructor\bin\Debug\netcoreapp3.1\StaticConstructor.exe
+E:\.creaters\C# Projects\StaticConstructor\StaticConstructor\bin\Debug\netcoreapp3.1\StaticConstructor.deps.json
+E:\.creaters\C# Projects\StaticConstructor\StaticConstructor\bin\Debug\netcoreapp3.1\StaticConstructor.runtimeconfig.json
+E:\.creaters\C# Projects\StaticConstructor\StaticConstructor\bin\Debug\netcoreapp3.1\StaticConstructor.runtimeconfig.dev.json
+E:\.creaters\C# Projects\StaticConstructor\StaticConstructor\bin\Debug\netcoreapp3.1\StaticConstructor.dll
+E:\.creaters\C# Projects\StaticConstructor\StaticConstructor\bin\Debug\netcoreapp3.1\StaticConstructor.pdb
+E:\.creaters\C# Projects\StaticConstructor\StaticConstructor\obj\Debug\netcoreapp3.1\StaticConstructor.csprojAssemblyReference.cache
+E:\.creaters\C# Projects\StaticConstructor\StaticConstructor\obj\Debug\netcoreapp3.1\StaticConstructor.AssemblyInfoInputs.cache
+E:\.creaters\C# Projects\StaticConstructor\StaticConstructor\obj\Debug\netcoreapp3.1\StaticConstructor.AssemblyInfo.cs
+E:\.creaters\C# Projects\StaticConstructor\StaticConstructor\obj\Debug\netcoreapp3.1\StaticConstructor.csproj.CoreCompileInputs.cache
+E:\.creaters\C# Projects\StaticConstructor\StaticConstructor\obj\Debug\netcoreapp3.1\StaticConstructor.dll
+E:\.creaters\C# Projects\StaticConstructor\StaticConstructor\obj\Debug\netcoreapp3.1\StaticConstructor.pdb
+E:\.creaters\C# Projects\StaticConstructor\StaticConstructor\obj\Debug\netcoreapp3.1\StaticConstructor.genruntimeconfig.cache
