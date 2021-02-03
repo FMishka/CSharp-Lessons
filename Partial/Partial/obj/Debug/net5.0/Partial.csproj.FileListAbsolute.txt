@@ -1,0 +1,16 @@
+E:\.creaters\C#\Partial\Partial\bin\Debug\net5.0\Partial.exe
+E:\.creaters\C#\Partial\Partial\bin\Debug\net5.0\Partial.deps.json
+E:\.creaters\C#\Partial\Partial\bin\Debug\net5.0\Partial.runtimeconfig.json
+E:\.creaters\C#\Partial\Partial\bin\Debug\net5.0\Partial.runtimeconfig.dev.json
+E:\.creaters\C#\Partial\Partial\bin\Debug\net5.0\Partial.dll
+E:\.creaters\C#\Partial\Partial\bin\Debug\net5.0\ref\Partial.dll
+E:\.creaters\C#\Partial\Partial\bin\Debug\net5.0\Partial.pdb
+E:\.creaters\C#\Partial\Partial\obj\Debug\net5.0\Partial.csprojAssemblyReference.cache
+E:\.creaters\C#\Partial\Partial\obj\Debug\net5.0\Partial.GeneratedMSBuildEditorConfig.editorconfig
+E:\.creaters\C#\Partial\Partial\obj\Debug\net5.0\Partial.AssemblyInfoInputs.cache
+E:\.creaters\C#\Partial\Partial\obj\Debug\net5.0\Partial.AssemblyInfo.cs
+E:\.creaters\C#\Partial\Partial\obj\Debug\net5.0\Partial.csproj.CoreCompileInputs.cache
+E:\.creaters\C#\Partial\Partial\obj\Debug\net5.0\Partial.dll
+E:\.creaters\C#\Partial\Partial\obj\Debug\net5.0\ref\Partial.dll
+E:\.creaters\C#\Partial\Partial\obj\Debug\net5.0\Partial.pdb
+E:\.creaters\C#\Partial\Partial\obj\Debug\net5.0\Partial.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+E:\.creaters\C#\Partial\Partial\bin\Debug\netcoreapp3.1\Partial.exe
+E:\.creaters\C#\Partial\Partial\bin\Debug\netcoreapp3.1\Partial.deps.json
+E:\.creaters\C#\Partial\Partial\bin\Debug\netcoreapp3.1\Partial.runtimeconfig.json
+E:\.creaters\C#\Partial\Partial\bin\Debug\netcoreapp3.1\Partial.runtimeconfig.dev.json
+E:\.creaters\C#\Partial\Partial\bin\Debug\netcoreapp3.1\Partial.dll
+E:\.creaters\C#\Partial\Partial\bin\Debug\netcoreapp3.1\Partial.pdb
+E:\.creaters\C#\Partial\Partial\obj\Debug\netcoreapp3.1\Partial.AssemblyInfoInputs.cache
+E:\.creaters\C#\Partial\Partial\obj\Debug\netcoreapp3.1\Partial.AssemblyInfo.cs
+E:\.creaters\C#\Partial\Partial\obj\Debug\netcoreapp3.1\Partial.csproj.CoreCompileInputs.cache
+E:\.creaters\C#\Partial\Partial\obj\Debug\netcoreapp3.1\Partial.dll
+E:\.creaters\C#\Partial\Partial\obj\Debug\netcoreapp3.1\Partial.pdb
+E:\.creaters\C#\Partial\Partial\obj\Debug\netcoreapp3.1\Partial.genruntimeconfig.cache
