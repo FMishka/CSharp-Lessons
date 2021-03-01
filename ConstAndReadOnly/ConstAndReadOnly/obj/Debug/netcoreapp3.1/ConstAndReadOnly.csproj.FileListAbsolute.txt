@@ -1,0 +1,13 @@
+E:\.creations\C#\ConstAndReadOnly\ConstAndReadOnly\bin\Debug\netcoreapp3.1\ConstAndReadOnly.exe
+E:\.creations\C#\ConstAndReadOnly\ConstAndReadOnly\bin\Debug\netcoreapp3.1\ConstAndReadOnly.deps.json
+E:\.creations\C#\ConstAndReadOnly\ConstAndReadOnly\bin\Debug\netcoreapp3.1\ConstAndReadOnly.runtimeconfig.json
+E:\.creations\C#\ConstAndReadOnly\ConstAndReadOnly\bin\Debug\netcoreapp3.1\ConstAndReadOnly.runtimeconfig.dev.json
+E:\.creations\C#\ConstAndReadOnly\ConstAndReadOnly\bin\Debug\netcoreapp3.1\ConstAndReadOnly.dll
+E:\.creations\C#\ConstAndReadOnly\ConstAndReadOnly\bin\Debug\netcoreapp3.1\ConstAndReadOnly.pdb
+E:\.creations\C#\ConstAndReadOnly\ConstAndReadOnly\obj\Debug\netcoreapp3.1\ConstAndReadOnly.csprojAssemblyReference.cache
+E:\.creations\C#\ConstAndReadOnly\ConstAndReadOnly\obj\Debug\netcoreapp3.1\ConstAndReadOnly.AssemblyInfoInputs.cache
+E:\.creations\C#\ConstAndReadOnly\ConstAndReadOnly\obj\Debug\netcoreapp3.1\ConstAndReadOnly.AssemblyInfo.cs
+E:\.creations\C#\ConstAndReadOnly\ConstAndReadOnly\obj\Debug\netcoreapp3.1\ConstAndReadOnly.csproj.CoreCompileInputs.cache
+E:\.creations\C#\ConstAndReadOnly\ConstAndReadOnly\obj\Debug\netcoreapp3.1\ConstAndReadOnly.dll
+E:\.creations\C#\ConstAndReadOnly\ConstAndReadOnly\obj\Debug\netcoreapp3.1\ConstAndReadOnly.pdb
+E:\.creations\C#\ConstAndReadOnly\ConstAndReadOnly\obj\Debug\netcoreapp3.1\ConstAndReadOnly.genruntimeconfig.cache
