@@ -1,0 +1,13 @@
+E:\.creations\C#\BASE\BASE\bin\Debug\netcoreapp3.1\BASE.exe
+E:\.creations\C#\BASE\BASE\bin\Debug\netcoreapp3.1\BASE.deps.json
+E:\.creations\C#\BASE\BASE\bin\Debug\netcoreapp3.1\BASE.runtimeconfig.json
+E:\.creations\C#\BASE\BASE\bin\Debug\netcoreapp3.1\BASE.runtimeconfig.dev.json
+E:\.creations\C#\BASE\BASE\bin\Debug\netcoreapp3.1\BASE.dll
+E:\.creations\C#\BASE\BASE\bin\Debug\netcoreapp3.1\BASE.pdb
+E:\.creations\C#\BASE\BASE\obj\Debug\netcoreapp3.1\BASE.csprojAssemblyReference.cache
+E:\.creations\C#\BASE\BASE\obj\Debug\netcoreapp3.1\BASE.AssemblyInfoInputs.cache
+E:\.creations\C#\BASE\BASE\obj\Debug\netcoreapp3.1\BASE.AssemblyInfo.cs
+E:\.creations\C#\BASE\BASE\obj\Debug\netcoreapp3.1\BASE.csproj.CoreCompileInputs.cache
+E:\.creations\C#\BASE\BASE\obj\Debug\netcoreapp3.1\BASE.dll
+E:\.creations\C#\BASE\BASE\obj\Debug\netcoreapp3.1\BASE.pdb
+E:\.creations\C#\BASE\BASE\obj\Debug\netcoreapp3.1\BASE.genruntimeconfig.cache
