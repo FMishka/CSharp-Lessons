@@ -1,0 +1,13 @@
+E:\.creations\C#\Protected\Protected\bin\Debug\netcoreapp3.1\Protected.exe
+E:\.creations\C#\Protected\Protected\bin\Debug\netcoreapp3.1\Protected.deps.json
+E:\.creations\C#\Protected\Protected\bin\Debug\netcoreapp3.1\Protected.runtimeconfig.json
+E:\.creations\C#\Protected\Protected\bin\Debug\netcoreapp3.1\Protected.runtimeconfig.dev.json
+E:\.creations\C#\Protected\Protected\bin\Debug\netcoreapp3.1\Protected.dll
+E:\.creations\C#\Protected\Protected\bin\Debug\netcoreapp3.1\Protected.pdb
+E:\.creations\C#\Protected\Protected\obj\Debug\netcoreapp3.1\Protected.csprojAssemblyReference.cache
+E:\.creations\C#\Protected\Protected\obj\Debug\netcoreapp3.1\Protected.AssemblyInfoInputs.cache
+E:\.creations\C#\Protected\Protected\obj\Debug\netcoreapp3.1\Protected.AssemblyInfo.cs
+E:\.creations\C#\Protected\Protected\obj\Debug\netcoreapp3.1\Protected.csproj.CoreCompileInputs.cache
+E:\.creations\C#\Protected\Protected\obj\Debug\netcoreapp3.1\Protected.dll
+E:\.creations\C#\Protected\Protected\obj\Debug\netcoreapp3.1\Protected.pdb
+E:\.creations\C#\Protected\Protected\obj\Debug\netcoreapp3.1\Protected.genruntimeconfig.cache
