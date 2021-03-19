@@ -8,7 +8,7 @@ namespace arraySort
 {
     class Program
     {
-        static void BoobleSort(ref int[] array)
+        static void BubbleSort(ref int[] array)
         {
             int space;
             for (int i = 0; i < array.Length; i++)
@@ -33,7 +33,7 @@ namespace arraySort
             {
                 myArray[i] = rand.Next(10);
             }
-            BoobleSort(ref myArray);
+            BubbleSort(ref myArray);
             foreach (var item in myArray)
             {
                 Console.Write(item + " ");
