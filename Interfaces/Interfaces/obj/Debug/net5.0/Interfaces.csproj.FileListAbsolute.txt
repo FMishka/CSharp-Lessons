@@ -1,0 +1,16 @@
+E:\.creations\C#\Interfaces\Interfaces\obj\Debug\net5.0\Interfaces.csproj.AssemblyReference.cache
+E:\.creations\C#\Interfaces\Interfaces\obj\Debug\net5.0\Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+E:\.creations\C#\Interfaces\Interfaces\obj\Debug\net5.0\Interfaces.AssemblyInfoInputs.cache
+E:\.creations\C#\Interfaces\Interfaces\obj\Debug\net5.0\Interfaces.AssemblyInfo.cs
+E:\.creations\C#\Interfaces\Interfaces\obj\Debug\net5.0\Interfaces.csproj.CoreCompileInputs.cache
+E:\.creations\C#\Interfaces\Interfaces\bin\Debug\net5.0\Interfaces.exe
+E:\.creations\C#\Interfaces\Interfaces\bin\Debug\net5.0\Interfaces.deps.json
+E:\.creations\C#\Interfaces\Interfaces\bin\Debug\net5.0\Interfaces.runtimeconfig.json
+E:\.creations\C#\Interfaces\Interfaces\bin\Debug\net5.0\Interfaces.runtimeconfig.dev.json
+E:\.creations\C#\Interfaces\Interfaces\bin\Debug\net5.0\Interfaces.dll
+E:\.creations\C#\Interfaces\Interfaces\bin\Debug\net5.0\ref\Interfaces.dll
+E:\.creations\C#\Interfaces\Interfaces\bin\Debug\net5.0\Interfaces.pdb
+E:\.creations\C#\Interfaces\Interfaces\obj\Debug\net5.0\Interfaces.dll
+E:\.creations\C#\Interfaces\Interfaces\obj\Debug\net5.0\ref\Interfaces.dll
+E:\.creations\C#\Interfaces\Interfaces\obj\Debug\net5.0\Interfaces.pdb
+E:\.creations\C#\Interfaces\Interfaces\obj\Debug\net5.0\Interfaces.genruntimeconfig.cache
