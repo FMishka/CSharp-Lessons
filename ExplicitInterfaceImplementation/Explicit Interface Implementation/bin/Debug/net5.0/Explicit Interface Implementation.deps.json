@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Explicit Interface Implementation/1.0.0": {
+        "runtime": {
+          "Explicit Interface Implementation.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Explicit Interface Implementation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
