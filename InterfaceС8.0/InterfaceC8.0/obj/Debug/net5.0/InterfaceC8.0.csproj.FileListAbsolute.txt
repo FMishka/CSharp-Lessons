@@ -1,0 +1,16 @@
+E:\.creations\C#\Interface\InterfaceC8.0\bin\Debug\net5.0\InterfaceC8.0.exe
+E:\.creations\C#\Interface\InterfaceC8.0\bin\Debug\net5.0\InterfaceC8.0.deps.json
+E:\.creations\C#\Interface\InterfaceC8.0\bin\Debug\net5.0\InterfaceC8.0.runtimeconfig.json
+E:\.creations\C#\Interface\InterfaceC8.0\bin\Debug\net5.0\InterfaceC8.0.runtimeconfig.dev.json
+E:\.creations\C#\Interface\InterfaceC8.0\bin\Debug\net5.0\InterfaceC8.0.dll
+E:\.creations\C#\Interface\InterfaceC8.0\bin\Debug\net5.0\ref\InterfaceC8.0.dll
+E:\.creations\C#\Interface\InterfaceC8.0\bin\Debug\net5.0\InterfaceC8.0.pdb
+E:\.creations\C#\Interface\InterfaceC8.0\obj\Debug\net5.0\InterfaceC8.0.csproj.AssemblyReference.cache
+E:\.creations\C#\Interface\InterfaceC8.0\obj\Debug\net5.0\InterfaceC8.0.GeneratedMSBuildEditorConfig.editorconfig
+E:\.creations\C#\Interface\InterfaceC8.0\obj\Debug\net5.0\InterfaceC8.0.AssemblyInfoInputs.cache
+E:\.creations\C#\Interface\InterfaceC8.0\obj\Debug\net5.0\InterfaceC8.0.AssemblyInfo.cs
+E:\.creations\C#\Interface\InterfaceC8.0\obj\Debug\net5.0\InterfaceC8.0.csproj.CoreCompileInputs.cache
+E:\.creations\C#\Interface\InterfaceC8.0\obj\Debug\net5.0\InterfaceC8.0.dll
+E:\.creations\C#\Interface\InterfaceC8.0\obj\Debug\net5.0\ref\InterfaceC8.0.dll
+E:\.creations\C#\Interface\InterfaceC8.0\obj\Debug\net5.0\InterfaceC8.0.pdb
+E:\.creations\C#\Interface\InterfaceC8.0\obj\Debug\net5.0\InterfaceC8.0.genruntimeconfig.cache
